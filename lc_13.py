@@ -12,3 +12,5 @@ class Solution:
                 summ += dict[s[i]]
                 i +=1
         return summ
+
+#romantointeger
